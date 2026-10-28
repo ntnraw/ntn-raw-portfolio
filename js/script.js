@@ -662,10 +662,10 @@ contactForm.addEventListener('submit', (e) => {
 // BEST WORK: video modal
 // =========================================================
 const VIDEO_SOURCES = {
-  'cinematic-reel': { type: 'drive', id: '1Vz46fWxJIT0CY6HlBxVgcWM_ND4aon0c' },
+  'cinematic-reel': { type: 'local', src: 'assets/videos/best-work1.mp4' },
   'behind-the-scenes': { type: 'local', src: 'assets/videos/best-work2.mp4' },
   'automotive-showcase': { type: 'local', src: 'assets/videos/best-work3.mp4' },
-  'product-film': { type: 'drive', id: '1FQ2d5ocV9GCf1BU8wzLbViIYWiP3Ia3c' }
+  'product-film':{ type: 'local', src: 'assets/videos/best-work4.mp4' },
 };
 
 // =========================================================
